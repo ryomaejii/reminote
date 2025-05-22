@@ -1,7 +1,7 @@
 {
   "name": "reminote",
   "version": "1.0.0",
-  "main": "index.ts",
+  "main": "src/screens/_app.tsx",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
